@@ -1,0 +1,1 @@
+Here we have a dataset of thousand images of 5 different types of rice. I used these images to train a multi-layer Convolutional Neural Networks model. Then I plotted some charts to compare between the results of train and validation images.
